@@ -12,9 +12,6 @@ A data de hoje
 a data daqui a 15, 45 e 90 dias a partir da data de hoje (formato: dd/mm/ano)
 O dia da semana do seu aniversário (formato: por extenso)
 O dia da semana do natal e do ano novo de 2021 (formato: por extenso) 
-
-PROF NÃO PEGA MEU CÓDIGO COMO EXEMPLO SE FOR MOSTRAR COMO DEVIA TER SIDO FEITO DE FORMA MAIS FÁCIL. 
-MAS TA TUDO FUNCIONANDO PELO MENOS :D
 */
 
 public class Gregoriano {
